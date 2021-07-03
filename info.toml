@@ -1,0 +1,9 @@
+[meta]
+name     = "Display Map Name"
+author   = "Franckentien"
+category = "Utilities"
+version  = "1.1"
+siteid   = "89"
+
+[script]
+imports = [ "Icons.as", "Formatting.as" ]
